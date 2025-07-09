@@ -26,7 +26,7 @@
 <a id="ar1"></a>
 このプロジェクトは、```Google Apps Script```(以下GASとする)を使用したGoogleChat自動送信システムです。
 
-**質問と提案などは[ここ](https://github.com/sphylics/googleautosend/issues)でお願いします。**
+**質問と提案などは[ここ](https://github.com/math-u-t/googleautosend/issues)でお願いします。**
 
 ※使用、コードの修正などは[MITライセンス](LICENSE)を使用してください。
 
